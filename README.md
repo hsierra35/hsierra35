@@ -1,3 +1,4 @@
+<img scr="images.jpeg">
 - 👋 Hola soy Heidi Sierra
 - 👀 Estoy interesada en Inteligencia Artificial
 - 🌱 Actualmente estoy aprendiendo Tecnología Educativa
