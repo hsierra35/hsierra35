@@ -1,4 +1,4 @@
-<img src="imagen1.png"/>
+<image src="imagen1.png"/>
 - 👋 Hola soy Heidi Sierra
 - 👀 Estoy interesada en Inteligencia Artificial
 - 🌱 Actualmente estoy aprendiendo Tecnología Educativa
